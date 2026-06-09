@@ -27,8 +27,8 @@ The dataset was spread across multiple tables, making it difficult to get a clea
 - Highlighted regional demand patterns
 - Suggested recommendations for logistics and product strategy
 
-## Screenshots
-Add dashboard screenshots here.
+## Project Report
+[View full project report](OLIST%20E-COMMERCE%20PERFORMANCE%20ANALYSIS.pdf)
 
 ## What I Learned
 I improved my skills in data cleaning, Power BI dashboard design, business problem analysis, and communicating insights for decision-making.
